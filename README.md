@@ -3,7 +3,7 @@
 Motivated by a passion for learning, I have already explored diverse areas, and now I am challenging myself to learn programming. Currently working in social media analytics and monitoring, I hold a degree in environmental management and a master's degree in the same field. Fun fact: My academic journey started in graphic design college, making my path a bit of a delightful maze! 
 
 
-- ✉️ You can reach me at mahjuaraujo@gmail.com  
+- ✉️ You can reach me at mahju.dev@gmail.com  
 
 - 🚀 Currently studying front-end web development 
 
